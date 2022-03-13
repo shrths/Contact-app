@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">contact_app</string>
+    <string name="textview">contactAdapter</string>
+</resources>
